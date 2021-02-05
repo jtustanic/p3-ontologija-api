@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#"
+         xmlns:ns1="http://oziz.ffos.hr/jtustanic/krj-ontologija#">
+
+  <rdf:Description rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#1">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#zarada_knjige"/>
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	25000</ns1:zaradioJe>
+  </rdf:Description>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#2">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	103522</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#3">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	15000</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#4">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	23600</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#5">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	44155</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#6">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	32659</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#7">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	14651</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#8">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	32007</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#9">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	15889</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#10">
+    <ns0:ime_nakladnika>Školska knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Školska_knjiga"/>
+    <ns0:mjesto_izdanja>Rijeka</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Rijeka"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mate Mislić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poljski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	25000</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#11">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	55256</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#12">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	351516</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#13">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	55256</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#14">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	15461</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#15">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	22003</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#16">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	19885</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#17">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	456451</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#18">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	6564</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#19">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2666</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#20">
+    <ns0:ime_nakladnika>Mozaik knjiga</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Mozaik_knjiga"/>
+    <ns0:mjesto_izdanja>Karlovac</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Karlovac"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Heris</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">japanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	7845</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#21">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	7949849</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#22">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	365866</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#23">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3847684</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#24">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	598695</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#25">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3848578</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#26">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4938375</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#27">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4859604</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#28">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	273778</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#29">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	53454</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#30">
+    <ns0:ime_nakladnika>Znanje</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Znanje"/>
+    <ns0:mjesto_izdanja>Osijek</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Osijek"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drago Ljubić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">turski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	348485</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#31">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2254</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#32">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	12255</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#33">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	7885415</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#34">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	264</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#35">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	545152</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#36">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2541</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#37">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5548</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#38">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	545416</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#39">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	26289</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#40">
+    <ns0:ime_nakladnika>VBZ</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#VBZ"/>
+    <ns0:mjesto_izdanja>Virovitica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Virovitica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iva Milić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">engleski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4888</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#41">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	54841</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#42">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	578</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#43">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	185255</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#44">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	1812</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#45">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	22544</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#46">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	48751</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#47">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5415415</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#48">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	58155</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#49">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5551</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#50">
+    <ns0:ime_nakladnika>Profil</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Profil"/>
+    <ns0:mjesto_izdanja>Varaždin</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Varaždin"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorena Drago</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">njemački</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	15848</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#51">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	266335</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#52">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	14188</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#53">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	18544</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#54">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2626171</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#55">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	95731</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#56">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3634821</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#57">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	48585</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#58">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2715141</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#59">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	8855</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#60">
+    <ns0:ime_nakladnika>Planetopija</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Planetopija"/>
+    <ns0:mjesto_izdanja>Pula</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Pula"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danko Pavlić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">talijanski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	365866</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#61">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3847684</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#62">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	598695</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#63">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	3848578</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#64">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	6155</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#65">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	518502</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#66">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	118754</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#67">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	57863</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#68">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	8841</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#69">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	48122</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#70">
+    <ns0:ime_nakladnika>Naklada Ljevak</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Naklada_Ljevak"/>
+    <ns0:mjesto_izdanja>Velika Gorica</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Velika_Gorica"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivica Jug</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">francuski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5178</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#71">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	785477</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#72">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	541227</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#73">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	87455</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#74">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	654884</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#75">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	488841</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#76">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4152</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#77">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	4785</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#78">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	121555</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#79">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	654512</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#80">
+    <ns0:ime_nakladnika>Matica hrvatska</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Matica_hrvatska"/>
+    <ns0:mjesto_izdanja>Slavonski Brod</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Slavonski_Brod"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katja Ivić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">švedski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5894</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#81">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	77413</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#82">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	9632</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#83">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	326651</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#84">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	2648</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#85">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	641861</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#86">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	651653</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#87">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	187</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#88">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	487445</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#89">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	65165</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#90">
+    <ns0:ime_nakladnika>Zagrebačka stvarnost</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagrebačka_stvarnost"/>
+    <ns0:mjesto_izdanja>Zagreb</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Zagreb"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tena Lukić</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">španjolski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	65189</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#91">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	5452</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#92">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	54165</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#93">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	54984653</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#94">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	56651</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#95">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	51641</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#96">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	6208</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#97">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	58542</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#98">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	549858</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#99">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	54511</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+  <ns0:zarada_knjige rdf:about=" http://oziz.ffos.hr/p3/jtustanic/zarada-knjige#100">
+    <ns0:ime_nakladnika>Globus media</ns0:ime_nakladnika>
+    <ns0:uri_nakladnika rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Globus_media"/>
+    <ns0:mjesto_izdanja>Bjelovar</ns0:mjesto_izdanja>
+    <ns0:uri_mjesta rdf:resource="http://oziz.ffos.hr/jtustanic/krj-ontologija#Bjelovar"/>
+    <ns1:jePreveo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franjo Nar</ns1:jePreveo>
+    <ns1:jePrevedeno rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ruski</ns1:jePrevedeno>
+    <ns1:zaradioJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	651188</ns1:zaradioJe>
+  </ns0:zarada_knjige>
+
+</rdf:RDF>
